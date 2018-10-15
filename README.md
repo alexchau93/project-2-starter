@@ -1,2 +1,8 @@
 # project-2-starter
-https://github.com/CSUF-CPSC-335-Team-FA18/project-2-solution.git
+Project 2: Empirical Analysis
+
+Group members:
+
+Ada Lovelace adalovelace@csu.fullerton.edu
+
+Charles Babbage charlesbab@csu.fullerton.edu
